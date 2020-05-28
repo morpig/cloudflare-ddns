@@ -15,7 +15,7 @@ It only install one dependency, which is superagent.
 ### Configuration 
 **You must configure `cloudflare-ddns` before you can use it.**
 
-```json
+```javascript
 {
     "interval": 15, //counted as minutes
     "email": "john@doe.com", //registered email @ cloudflare
