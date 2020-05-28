@@ -1,0 +1,10 @@
+{
+    "interval": 15,
+    "email": "john@doe.com",
+    "api_key": "626953b55d2b2asdasdasdasd1f77", 
+    "zone_id": "4539ecd6a8261ff124aasdasdasdasdf84b6",
+    "dns_record_id": "498810cce2a1aasdasdasdasdf084976cc",
+    "dns_name": "biznet-1.ma.com",
+    "ttl": 1,
+    "proxied": false
+}

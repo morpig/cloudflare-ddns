@@ -1,0 +1,22 @@
+{
+  "name": "cloudflare-ddns",
+  "version": "1.0.0",
+  "description": "Automatically update your domain's A record based on current IP address (IPv4 only)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morpig/cloudflare-ddns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morpig/cloudflare-ddns/issues"
+  },
+  "homepage": "https://github.com/morpig/cloudflare-ddns#readme",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
+}
